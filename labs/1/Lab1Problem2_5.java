@@ -12,7 +12,7 @@ public class Lab1Problem2_5 {
 		double gratuityRate = input.nextDouble();
 		
 		// Calculate gratuity and total
-		double gratuity = gratuityRate / subtotal;
+		double gratuity = gratuityRate / subtotal; //JA: gratuity = subtotal * gratuityRate / 100
 		double total = subtotal + gratuity;
 		
 		// Output
