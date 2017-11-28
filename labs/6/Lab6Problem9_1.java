@@ -4,7 +4,7 @@ public class Lab6Problem9_1 {
 	private double width;
 	private double height;
 	
-	// A no-arg constructor that creates a default triangle
+	// A no-arg constructor that creates a default rectangle
 	public Lab6Problem9_1() {}
 	
 	// A constructor that creates a rectangle with the specified width and height
